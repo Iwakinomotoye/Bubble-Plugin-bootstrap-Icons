@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "description": "This plugin was created to help developers have access to icons that are available on bootstrap.\n\nReach me on bubble forum @iwakinomotoye if you will like me to improve this plugin in some way. \n\nYou can preview icons on https://icons.getbootstrap.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1646140909169x125740758916906180/bootstrap.png",
+    "license": "open_source",
+    "name": "bootstrap Icons",
+    "plugin_instructions": "Ensure to use equal width and height for your elements to get the best result.\n\nReach me on bubble forum @iwakinomotoye if you will like me to improve this plugin in some way."
+}
