@@ -8,10 +8,10 @@ function(instance, properties, context) {
     var iconColor = properties.icon_color;
     
     if (dynamicName) {
-      biIconEl.classList.add("bi-" + dynamicName);
-    } else {
-      biIconEl.classList.add("bi-" + iconName);   
+      iconName = dynamicName;
     }
+    
+    biIconEl.classList.add("bi-" + iconName);
     
     biIconEl.style.color = iconColor;
     if (elWidth > elHeight) {

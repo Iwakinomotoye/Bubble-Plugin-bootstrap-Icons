@@ -20,6 +20,7 @@
         "AAE": {
             "caption": "Icon color",
             "default_val": "rgba(0, 0, 0, 1)",
+            "doc": "Color changes are visible only on run mode",
             "editor": "Color",
             "in_style": true,
             "name": "icon_color",
